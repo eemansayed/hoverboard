@@ -15,3 +15,5 @@ for (let i = 0; i < SQUARES; i++) {
 function setColor(element) {
   const color = getRandomColor();
 }
+
+function removeColor(element) {}
